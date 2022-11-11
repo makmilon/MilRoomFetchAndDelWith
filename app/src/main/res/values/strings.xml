@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PayThrough Project</string>
+    <string name="enter_id">Enter Id</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="invalid_id">Insert a Number Between 1  to 9</string>
+    <string name="invalid_name">Must fill with an Text</string>
+    <string name="invalid_email">Enter Valid Email</string>
+    <string name="invalid_phone">Please insert corrent Phone number</string>
+
+    <string-array name="gender">
+
+
+
+    </string-array>
+
+    <string-array name="age"/>
+</resources>
